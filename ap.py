@@ -1,4 +1,3 @@
-
 import pandas as pd 
 import dash 
 from dash import dcc, html 
@@ -63,4 +62,4 @@ def update_graph(region, chart_type):
  
 # Run app 
 if __name__ == '__main__': 
-    app.run()
+    app.run_server(debug=True)
