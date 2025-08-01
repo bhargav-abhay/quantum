@@ -63,4 +63,11 @@ def update_graph(region, chart_type):
  
 # Run app 
 if __name__ == '__main__': 
-    app.run()
+    app.run()  
+
+
+
+
+
+
+    
