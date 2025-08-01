@@ -1,5 +1,5 @@
 # Quantium starter repo
-This repo contains everything you need to get started on the program! Good luck!
+This repo contains everything for Quantium  program! 
 # Pink Morsel Sales Visualizer
 
 A Dash app for visualizing Pink Morsel sales data.
