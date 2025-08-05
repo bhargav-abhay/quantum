@@ -1,5 +1,5 @@
 # Quantium starter repo
-#This Project is For Quantium
+#.   This Project is For Quantium
 #   Overview
 
 This is a simple interactive web dashboard built with Python and the Dash framework. The application allows users to visualize sales data for "Pink Morsel" products, with options to filter the data by region and switch between a line chart and a bar chart representation.
